@@ -54,9 +54,6 @@ client.on("ready", () => {
 
 /*============================= | Anti OFF | =========================================*/
 
-process.on('multipleResolves', (type, reason, promise) => {
-    return;
-});
 process.on('unhandledRejection', (reason, promise) => {
     return;
 });
