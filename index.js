@@ -1,6 +1,6 @@
 const Discord = require("discord.js");
 const sourcebin = require('sourcebin');
-const config = require("./config.json");
+const config = require("./process.env");
 const fs = require('fs');
 const { QuickDB } = require("quick.db");
 const { JsonDatabase } = require("wio.db");
