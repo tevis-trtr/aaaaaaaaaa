@@ -1,0 +1,20 @@
+{
+    "client": {
+        "token": "MTQ1MjkzMDQxNDU2NDg3MjMzNg.Gt6a2I.QyjdloEIg9-gh-baWfXmReqUq9yo9_NYJ5bPFI",
+        "embed": "8A2BE2",
+        "username": "nome do bot",
+        "avatar": "seu avatar do bot",
+        "channel_bugs": "id canal bugs",
+        "owner_id": "id do dono da loja"
+    },
+    "sales": {
+        "checkout_category_id": "categoria",
+        "channel_sales": "canal de comprovantes",
+        "role_customer": "cargo de cliente",
+        "role_permission_approved": "cargo q pode aprovar",
+        "banco": {
+            "qrcode": "imagem do qr code",
+            "email": "tevisgarena@gmail.com"
+        }
+    }
+}
